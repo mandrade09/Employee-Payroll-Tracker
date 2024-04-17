@@ -33,17 +33,17 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 I was responsible for filling out the following functions:
 
-*1.  `collectEmployees`: This function allows a user to add multiple employees to display on the page.  The user enters the first name, last name, and salary of each employee, and then have the option to keep adding employees until they choose to stop. 
+* 1.  `collectEmployees`: This function allows a user to add multiple employees to display on the page.  The user enters the first name, last name, and salary of each employee, and then have the option to keep adding employees until they choose to stop. 
 
 I used a `while` loop for this, and added an `isNaN` function to help the salary input defaulting to 0 if salary was not entered as a number. 
 
 Accordingly, this function returns an array of objects, specfically the employees' first and last names, and their salary. 
 
 
-*2. `displayAverageSalary`: This function takes the generated array of employees and logs the average salary and number of employees to the console.  I useed a template literal string for this task.
+* 2. `displayAverageSalary`: This function takes the generated array of employees and logs the average salary and number of employees to the console.  I useed a template literal string for this task.
 
 
-*3. `getRandomEmployee`: This function takes in the generated array of employees, randomly selects one employee, and uses a template literal to log their full name to the console.  I used a built in `Math` object to help with random number generation.
+* 3. `getRandomEmployee`: This function takes in the generated array of employees, randomly selects one employee, and uses a template literal to log their full name to the console.  I used a built in `Math` object to help with random number generation.
 
 I was provided starter code that includes the `displayEmployees` and `trackEmployeeData` functions. These functions were complete and working. I did not modify any code for the following functions:
 
@@ -59,10 +59,9 @@ Finally, I deployed and published my project on the site so that my webpage is l
 
 ## Project View
 
+![Payroll Tracker Screenshot 1](Assets/Employee-Payroll-Tracker-Screenshot-1.jpg)
 
-![Payroll Tracker Screenshot 1](Assets\Employee-Payroll-Tracker-Screenshot-1.jpg)
-
-![Payroll Tracker Screenshot 2](Assets\Employee-Payroll-Tracker-Screenshot-2.jpg)
+![Payroll Tracker Screenshot 2](Assets/Employee-Payroll-Tracker-Screenshot-2.jpg)
 
 
 ## Contact Information
@@ -71,8 +70,8 @@ Thanks for visiting!
 If you would like to learn more, or contact me, feel free to reach me at the following:
 
 <ul>
-    <li>Webpage URL: </li>
-    <li>GitHub URL: </li>
+    <li>Webpage URL: https://mandrade09.github.io/Employee-Payroll-Tracker/</li>
+    <li>GitHub URL: https://github.com/mandrade09/Employee-Payroll-Tracker</li>
     <li>E-mail: mattandrade09@gmail.com</li>
     <li>Phone: 310.903.9150</li>
 </ul>
