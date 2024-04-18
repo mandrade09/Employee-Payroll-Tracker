@@ -40,10 +40,10 @@ I used a `while` loop for this, and added an `isNaN` function to help the salary
 Accordingly, this function returns an array of objects, specfically the employees' first and last names, and their salary. 
 
 
-* 2. `displayAverageSalary`: This function takes the generated array of employees and logs the average salary and number of employees to the console.  I useed a template literal string for this task.
+* 2. `displayAverageSalary`: This function takes in the generated array of employees and logs the average salary and number of employees to the console.  I used a template literal string for this task.
 
 
-* 3. `getRandomEmployee`: This function takes in the generated array of employees, randomly selects one employee, and uses a template literal to log their full name to the console.  I used a built in `Math` object to help with random number generation.
+* 3. `getRandomEmployee`: This function takes in the generated array of employees, randomly selects one employee, and uses a template literal to log their full name to the console.  I used a built in `Math` object to help with random number generation.  (*note: I was assisted by a TA for this section)
 
 I was provided starter code that includes the `displayEmployees` and `trackEmployeeData` functions. These functions were complete and working. I did not modify any code for the following functions:
 
